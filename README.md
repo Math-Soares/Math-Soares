@@ -31,10 +31,10 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="150" src="./profile/stats.svg" style="vertical-align: middle;" />
-  <img height="150" src="./profile/langs.svg" style="vertical-align: middle;" />
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="./profile/stats.svg" height="150" />
+  <img src="./profile/langs.svg" height="150" />
+</div>
 
 ---
 
