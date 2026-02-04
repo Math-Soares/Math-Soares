@@ -32,8 +32,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="./profile/stats.svg" />
-  <img height="180em" src="./profile/langs.svg" />
+  <img height="150" src="./profile/stats.svg" />
+  <img height="150" src="./profile/langs.svg" />
 </div>
 
 ---
