@@ -32,12 +32,12 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <table border="0">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td valign="center">
+      <td valign="center" style="border: none;">
         <img height="150" src="./profile/stats.svg" />
       </td>
-      <td valign="center">
+      <td valign="center" style="border: none;">
         <img height="150" src="./profile/langs.svg" />
       </td>
     </tr>
