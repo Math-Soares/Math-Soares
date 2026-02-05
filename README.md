@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus Soares Vieira 👋
+# Olá, eu sou o Matheus Soares 👋
 
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante de **Informática** no **Instituto Federal de Alagoas (IFAL)**.
