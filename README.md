@@ -9,7 +9,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="left"><img src="https://skillicons.dev/icons?i=py,js,ts,java,dart,html,css" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,flutter" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql,git,vscode" height="35" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=py,js,ts,java,dart,html,css" height="35" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,flutter" height="35" /></p>
 
 ---
 
