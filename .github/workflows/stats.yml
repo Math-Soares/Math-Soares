@@ -3,23 +3,31 @@ on:
   schedule:
     - cron: "0 0 * * *" # Roda todo dia à meia-noite
   workflow_dispatch: # Permite rodar manualmente
+
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
+
       - name: Generate Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=Math-Soares&theme=dark&show_icons=true
           path: profile/stats.svg
+          token: ${{ secrets.PAT_STATS }}
+
       - name: Generate Languages
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=Math-Soares&theme=dark&layout=compact
           path: profile/langs.svg
+          token: ${{ secrets.PAT_STATS }}
+
       - name: Commit and Push
         run: |
           git config user.name "github-actions"
