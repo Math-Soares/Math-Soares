@@ -6,9 +6,7 @@ Desenvolvo aplicações web e mobile aplicando conceitos de lógica de programa�
 
 ---
 
-### 🚀 Projeto em Destaque
-
-#### [ZelaAqui](https://github.com/Exilium-IFAL/ZelaAqui)
+### 🚀 Projeto em Destaque: [ZelaAqui](https://github.com/Exilium-IFAL/ZelaAqui)
 Plataforma colaborativa de zeladoria urbana e cidadania ativa voltada inicialmente para **Arapiraca - AL**.
 - Permite que moradores registrem ocorrências urbanas (buracos, iluminação, saneamento) com geolocalização e fotos.
 - **Stack:** React, Node.js, Leaflet / OpenStreetMap, PostgreSQL & PostGIS (via Supabase).
